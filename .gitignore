@@ -1,0 +1,17 @@
+# Build output
+build/
+dist/
+out/
+bin/
+*.class
+*.jar
+
+# NetBeans / IDE
+nbproject/private/
+.idea/
+.vscode/
+*.iml
+
+# Files created when the program runs
+*.ser
+WelcomeLetter_*.txt
