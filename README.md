@@ -1,4 +1,4 @@
-# Real Estate Agency Management System 🏠 (Java, OOP)
+# Real Estate Agency Management System
 
 A console-based real estate agency system written in Java, built as a team project for an Object-Oriented Programming course. Users sign up as buyers, sellers, or renters, and a manager role handles accounts and property maintenance. Accounts and listings are saved between runs with Java serialization.
 
