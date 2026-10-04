@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
+ */
+package transaction;
+
+/**
+ *
+ * @author Ouzair
+ */
+public enum TransactionType {
+    Rent("Rent"),
+    BuyNow("BuyNow"),
+    Auction("Auction");
+ 
+    private final String type;
+    
+    TransactionType ( final String type){
+        this.type= type;
+    }
+    
+}
+
+
