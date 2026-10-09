@@ -1,9 +1,7 @@
 package main;
 
 
-/**
- * @author saad
- */
+
 import housing.Property;
 import housing.typeOfHousing;
 import individuals.Buyers;
