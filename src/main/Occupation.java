@@ -4,9 +4,6 @@
  */
 package main;
 
-/**
- * @author saad
- */ 
 
     public enum Occupation{
         BUYER,SELLER,RENTER, MANAGER;
