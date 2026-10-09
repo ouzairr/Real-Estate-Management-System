@@ -1,8 +1,4 @@
 package main;
-/**
- * @author saad
- */
-
 import java.io.IOException;
 import java.util.ArrayList;
 import housing.Property;
