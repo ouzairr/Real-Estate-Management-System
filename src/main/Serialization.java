@@ -1,8 +1,7 @@
 package main;
 
-/**
- * @author saad
- */
+
+
 import housing.Property;
 import java.io.*;
 import java.util.ArrayList;
