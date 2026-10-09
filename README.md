@@ -60,8 +60,4 @@ This is the original course version, kept as the team submitted it. Known issues
 - The manager menu checks the wrong variable, so remove, hire, and maintain do not run.
 - Rental listing and price sorting methods in the menu are not implemented yet.
 
-## Team
 
-Team project for the Object-Oriented Programming course at Al Akhawayn University in Ifrane, built by Saad, Ilyas Ezzahrioui, Maroua, and Ouzair Bouaouida.
-
-Ouzair Bouaouida built the `transaction` package (sales, buy now, auctions, mortgages, payments, transactions).
