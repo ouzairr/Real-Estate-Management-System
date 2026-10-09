@@ -1,7 +1,5 @@
 package main;
-/**
- * @author saad
- */
+
 
 import individuals.Buyers;
 
