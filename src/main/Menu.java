@@ -22,8 +22,7 @@ public class Menu {
 	
 	public int ManagerCheckMenu(ArrayList<Property> property,ArrayList<Account> accounts) {
             /**
- * @author ilyas
- */
+
                 Account account = new Account();
                 Account account1 = new Account();
                 Managers manager = new Managers();
