@@ -1,8 +1,5 @@
 package individuals;
 
-/**
- * @author ilyas 
- */
 import housing.Property;
 import main.Account;
 import main.Occupation;
