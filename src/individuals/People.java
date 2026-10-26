@@ -1,9 +1,5 @@
 package individuals;
 
-/**
- * @author ilyas
- */
-
 import java.io.Serializable;
 
 import main.Occupation;
