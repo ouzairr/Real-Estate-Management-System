@@ -1,9 +1,5 @@
 package individuals;
 
-/**
- * @author ilyas
- */ 
-
 
 import housing.Property;
 //import System.Transaction;
