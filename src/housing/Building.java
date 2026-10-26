@@ -6,7 +6,7 @@ package housing;
 
 /**
  *
- * @author DELL
+ * @author ouzair
  */
 public class Building {
     
